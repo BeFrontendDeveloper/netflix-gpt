@@ -26,3 +26,9 @@ fetch data for Trailer Video
 update store with Trailer Video
 Embedded the youtube video and make it autoplay and mute
 Tailwind classes to make MainContainer look awesome
+Build SecondaryComponent
+Build MovieList
+build MovieCard
+TMDB Image CDN URL
+made the browser page amazing with Tailwind CSS
+usePopularMovies Custom Hooks
